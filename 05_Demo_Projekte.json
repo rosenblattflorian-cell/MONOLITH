@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P-001",
+    "kunde": "Max Mustermann",
+    "status": "Technische Prüfung erforderlich",
+    "gates": {
+      "technik_freigabe": false,
+      "montage_start": false
+    }
+  },
+  {
+    "id": "P-002",
+    "kunde": "Muster GmbH",
+    "status": "Montage bereit",
+    "gates": {
+      "technik_freigegeben": true,
+      "montage_start": true
+    }
+  },
+  {
+    "id": "P-003",
+    "kunde": "Solar Kunde AG",
+    "status": "In Montage",
+    "gates": {
+      "technik_freigegeben": true,
+      "montage_start": true
+    }
+  }
+]
