@@ -1,0 +1,14 @@
+Create a complete ready-to-use internal Sales and Warehouse UI.
+Brand: SOLAR MITTE
+Colors:
+Primary #8BC53F
+Secondary #F2C300
+Gray #E5E7EB
+
+Create all pages, frames and components automatically.
+Include:
+- Warehouse Overview with status as second column
+- Mobile card layout
+- Order detail with automatic reservation
+- Status badges green/yellow/red
+- No ERP, no accounting, no animations
